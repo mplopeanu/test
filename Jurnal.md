@@ -7,7 +7,13 @@ Misto
 Ecuatia:
 
  $$A \neq B \tag{1}$$
+
+| a1 | b1 |
+|--|--|
+| 12 | 14 |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTk1MDc4MywyNjk5NTU3MSwtNzM1OD
+eyJoaXN0b3J5IjpbMjEwNjU4NDQ3MiwyNjk5NTU3MSwtNzM1OD
 A4Mjg3LC0xMjk1NjA3NjkxXX0=
 -->
