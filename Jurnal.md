@@ -12,8 +12,8 @@ Ecuatia:
 |--|--|
 | 12 | 14 |
 
-
+***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjU4NDQ3MiwyNjk5NTU3MSwtNzM1OD
+eyJoaXN0b3J5IjpbMTY0NjQ3MTgyNiwyNjk5NTU3MSwtNzM1OD
 A4Mjg3LC0xMjk1NjA3NjkxXX0=
 -->
