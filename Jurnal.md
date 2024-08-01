@@ -10,7 +10,8 @@ Ecuatia:
 
 ### Matricea A:
 
-$$A=\begin{bmatrix} a_{11] a_{12} \end{bmatrix}$$
+$A=\begin{bmatrix} a_{11] & a_{12} \\ a_{21} & a_{22} \end{bmatrix}$
+$A =\begin{bmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \end{bmatrix}$
 
 | a1 | b1 |
 |--|--|
@@ -18,6 +19,6 @@ $$A=\begin{bmatrix} a_{11] a_{12} \end{bmatrix}$$
 
 ***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE5NjQ5MywxNjQ2NDcxODI2LDI2OT
+eyJoaXN0b3J5IjpbMjA5OTQzMjc1NCwxNjQ2NDcxODI2LDI2OT
 k1NTcxLC03MzU4MDgyODcsLTEyOTU2MDc2OTFdfQ==
 -->
