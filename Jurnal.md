@@ -8,12 +8,13 @@ Ecuatia:
 
  $$A \neq B \tag{1}$$
 
+### Matricea A:
 | a1 | b1 |
 |--|--|
 | 12 | 14 |
 
 ***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjQ3MTgyNiwyNjk5NTU3MSwtNzM1OD
-A4Mjg3LC0xMjk1NjA3NjkxXX0=
+eyJoaXN0b3J5IjpbLTE3NzE1NTE5MjYsMTY0NjQ3MTgyNiwyNj
+k5NTU3MSwtNzM1ODA4Mjg3LC0xMjk1NjA3NjkxXX0=
 -->
