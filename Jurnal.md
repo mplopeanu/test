@@ -9,12 +9,15 @@ Ecuatia:
  $$A \neq B \tag{1}$$
 
 ### Matricea A:
+
+$$A=\begin{bmatrix} a_{11] a_{12} \end{bmatrix}$$
+
 | a1 | b1 |
 |--|--|
 | 12 | 14 |
 
 ***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE1NTE5MjYsMTY0NjQ3MTgyNiwyNj
-k5NTU3MSwtNzM1ODA4Mjg3LC0xMjk1NjA3NjkxXX0=
+eyJoaXN0b3J5IjpbLTE2NjE5NjQ5MywxNjQ2NDcxODI2LDI2OT
+k1NTcxLC03MzU4MDgyODcsLTEyOTU2MDc2OTFdfQ==
 -->
